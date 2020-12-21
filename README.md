@@ -1,2 +1,1 @@
-# MVCTest
-# MVC의 가장 기본 (Model=>Command, Controller, View)
+# MVC의 가장 기본형태 (Model=>Command, Controller, View)
